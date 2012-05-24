@@ -1,6 +1,6 @@
 # PS2-2-TSV
 
-I needed to convert a PS2 file to a <abbr title="Tab Separated File">TSV</abbr>, and wrote this simple script. Maybe it will be useful for someone else.
+I needed to convert a PS2 file to a TSV (Tab Separated File), and wrote this simple script. Maybe it will be useful for someone else.
 
 ## PS2
 
